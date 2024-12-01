@@ -1,0 +1,17 @@
+
+[tool.set]
+enabled = true
+version_file = "VERSION"
+count_commits_from_version_file = true
+dev_template = "{tag}.{ccount}"  # <--- note {branch} here
+dirty_template = "{tag}.{ccount}"
+
+
+# [project.urls]
+# Homepage = "https://github.com/pypa/sampleproject"
+# Issues = "https://github.com/pypa/sampleproject/issues"
+
+
+
+# [tool.setuptools_scm]
+# version_file = "cache_return/_version.py"
