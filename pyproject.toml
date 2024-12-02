@@ -1,5 +1,5 @@
 
-[tool.set]
+[tool.setuptools-git-versioning]
 enabled = true
 version_file = "VERSION"
 count_commits_from_version_file = true
