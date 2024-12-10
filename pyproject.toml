@@ -5,7 +5,3 @@ template = "{tag}.0"
 dev_template = "{tag}.{ccount}"  # <--- note {branch} here
 dirty_template = "{tag}.{ccount}+dirty"
 
-
-# [project.urls]
-# Homepage = "https://github.com/pypa/sampleproject"
-# Issues = "https://github.com/pypa/sampleproject/issues"
